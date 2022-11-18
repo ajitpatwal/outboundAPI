@@ -1,0 +1,17 @@
+[
+    {
+      "name": "FRV_API_KEY",
+      "value": "https://ppc-richmond.fareva.com:8443/RESTAdapter/Haleon_PurchaseOrder",
+      "slotSetting": false
+    },
+    {
+      "name": "FRV_USER_NAME",
+      "value": "FAREVA_GSK",
+      "slotSetting": false
+    },
+    {
+      "name": "FRV_PASSWORD",
+      "value": "welcome2020",
+      "slotSetting": false
+    }
+]
